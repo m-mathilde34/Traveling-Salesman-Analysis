@@ -1,4 +1,4 @@
-Unique ID, Generation, Average Fitness, Best Fitness
+unique_id,generation,average_fitness,best_fitness
 2,1,3.692813019916359E-4,5.863056980074035E-4
 2,2,3.69179140303594E-4,5.863056980074035E-4
 2,3,3.7082870806831597E-4,5.863056980074035E-4
